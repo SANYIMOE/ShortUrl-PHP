@@ -4,9 +4,9 @@
 <p align="center"><img src="https://s1.ax1x.com/2022/03/13/bqYRTe.jpg"></p>
 
 <p align="center">
-<a href="https://github.com/Cinnamoroll-Home/Cinnamoroll-ShortUrl/actions/"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/Cinnamoroll-Home/Cinnamoroll-ShortUrl/CI?style=flat-square"></a>
-<a href="https://github.com/Cinnamoroll-Home/Cinnamoroll-ShortUrl/releases"><img alt="GitHub release (latest SemVer including pre-releases)" src="https://img.shields.io/github/v/release/Cinnamoroll-Home/Cinnamoroll-ShortUrl?include_prereleases&style=flat-square"></a>
-<a href="https://github.com/Cinnamoroll-Home/Cinnamoroll-ShortUrl/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Cinnamoroll-Home/Cinnamoroll-ShortUrl?style=flat-square"></a>
+<a href="https://github.com/Cinnamoroll-Home/ShortUrl-PHP/actions/"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/Cinnamoroll-Home/ShortUrl-PHP/CI?style=flat-square"></a>
+<a href="https://github.com/Cinnamoroll-Home/ShortUrl-PHP/releases"><img alt="GitHub release (latest SemVer including pre-releases)" src="https://img.shields.io/github/v/release/Cinnamoroll-Home/ShortUrl-PHP?include_prereleases&style=flat-square"></a>
+<a href="https://github.com/Cinnamoroll-Home/ShortUrl-PHP/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Cinnamoroll-Home/ShortUrl-PHP?style=flat-square"></a>
 </p>
 
 Elegant open source short URL production API, now, respond to your waiting.
@@ -30,7 +30,7 @@ Deploy short URLs using your own domain name.
 
 ## Quick Install
 
-See <a href="https://github.com/Cinnamoroll-Home/Cinnamoroll-ShortUrl/wiki">Wiki</a>
+See <a href="https://github.com/Cinnamoroll-Home/ShortUrl-PHP/wiki">Wiki</a>
 
 ## Supporting
 
